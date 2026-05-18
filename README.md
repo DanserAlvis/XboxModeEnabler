@@ -1,5 +1,8 @@
 # Parche Menu Modo Xbox - Windows 11
 
+<img width="613" height="516" alt="image" src="https://github.com/user-attachments/assets/d4b7237c-7454-4c83-99d9-373916291b8e" />
+
+
 Una herramienta grafica ligera desarrollada en PowerShell que permite forzar la habilitacion de la nueva interfaz "Modo Xbox" en la aplicacion de Configuracion de Windows 11 (Builds 26100 o superiores).
 
 ## Caracteristicas
